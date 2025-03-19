@@ -1,16 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/467691868df05a4035d5b6e8d361e79f.webp" group-title="TV",TVI 
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/tvi.m3u8
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/bf5a981c80f234b09dae228127d108a1.webp" group-title="TV",SIC
-https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_4.m3u8
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/91efd89afa7e783034c78ab45eb10ccc.webp" group-title="TV",TVI Reality
-https://video-auth5.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvireality-720_passthrough/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/27c7fd91d7e589a2e5f88e42f37707eb.webp" group-title="TV",SIC Notícias
-https://d277k9d1h9dro4.cloudfront.net/out/v1/293e7c3464824cbd8818ab8e49dc5fe9/index_5.m3u8
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/7856d68f41f8f261c2cdeca2b92dce7b.webp" group-title="TV",Jetsons Tv 
-https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8
-
-
 #EXTINF:0 tvg-logo="https://topflix.vc/resize/Ebrt6qNx72EKzDeHcxht7ZApM%2BkbAJGO7LCV0iKHflkCFmmkmxjgQAq9K%2F%2FIIg1tsD0aK8LlwxeeESLNAOjAGQ%3D%3D.webp?w=282&h=421" group-title="Filme",1923
 https://sempra.pro/a1/out/6/3050/3050_1923-s02e01-web-dl-1080p-x264-dual-2.0.m3u8
 #EXTINF:0 tvg-logo="https://topflix.vc/resize/Ebrt6qNx72EKzDeHcxht7ZApM%2BkbAJGO7LCV0iKHflm3WO2ymLjhD6ob3ctEQzOz5tmurSuXVLCuIWadNtfV4pfBW7VxlEPGEsCBXyEJD3VihH%2B3RHd22f9DVhN%2BI4OQ.webp?w=282&h=421" group-title="Filme",Bob Burnquist: A Lenda do Skate
@@ -440,7 +428,6 @@ https://sempra.pro/a1/out/6/8588/8588_nao.sei.o.que.fizemos.na.noite.passada.202
 #EXTINF:0 tvg-logo="https://topflix.vc/resize/Ebrt6qNx72EKzDeHcxht7ZApM%2BkbAJGO7LCV0iKHflm3WO2ymLjhD6ob3ctEQzOziwf0ZTuLZ9VmF%2FS0TkrPAt%2Fmmgo6Uj8tjFvR7fjquASat%2FC%2Bn0kphmEsQ%2FT%2BmfPI.webp?w=370&h=556" group-title="Filme",Quebrando a Banca
 https://sempra.pro/a1/out/6/8578/8578_21.quebrando.a.banca.2008.brrip.1080p.x264.dual-comando.to.m3u8
 
-Crianças
 
 #EXTM3U
 #EXTINF:0 tvg-logo="https://topflix.vc/resize/Ebrt6qNx72EKzDeHcxht7ZApM%2BkbAJGO7LCV0iKHflkCFmmkmxjgQAq9K%2F%2FIIg1tsD0aK8LlwxeeESLNAOjAGQ%3D%3D.webp?w=282&h=421" group-title="Filme",1923
@@ -871,6 +858,42 @@ https://sempra.pro/a1/out/6/8589/8589_numero.24.2024.1080p.web-dl.dual.5.1.m3u8
 https://sempra.pro/a1/out/6/8588/8588_nao.sei.o.que.fizemos.na.noite.passada.2022.1080p.web-dl.dual.2.0.m3u8
 #EXTINF:0 tvg-logo="https://topflix.vc/resize/Ebrt6qNx72EKzDeHcxht7ZApM%2BkbAJGO7LCV0iKHflm3WO2ymLjhD6ob3ctEQzOziwf0ZTuLZ9VmF%2FS0TkrPAt%2Fmmgo6Uj8tjFvR7fjquASat%2FC%2Bn0kphmEsQ%2FT%2BmfPI.webp?w=370&h=556" group-title="Filme",Quebrando a Banca
 https://sempra.pro/a1/out/6/8578/8578_21.quebrando.a.banca.2008.brrip.1080p.x264.dual-comando.to.m3u8
+#EXTINF:-1 tvg-logo="https://topflix.vc/resize/Ebrt6qNx72EKzDeHcxht7ZApM%2BkbAJGO7LCV0iKHflm3WO2ymLjhD6ob3ctEQzOzVUBXzs9hGpeahq496mzp58hy2%2F%2Bm908MJNenuuw47QjaYWP1I%2BpicN785aDOzhiA.webp?w=370&h=556" group-title="Filme",O Mal Mora Aqui
+https://sempra.pro/a1/out/6/9284/9284_o.mal.mora.aqui.2024.1080p.web-dl.dual.2.0.m3u8
+#EXTINF:-1 tvg-logo="https://topflix.vc/resize/Ebrt6qNx72EKzDeHcxht7ZApM%2BkbAJGO7LCV0iKHflnM0yZsZl8lHQRI0L7Xn76IDy0%2FEF8g7T1wwcFjxcEz3p4TdsK4A5%2Fv2QTnOSSF01GJch0xpDWXl7AIKlNyiwrq.webp?w=370&h=556" group-title="Filme",Corra, Querida, Corra
+https://sempra.pro/a1/out/6/6229/6229_corra-querida-corra-2022-1080p-web-dl-dual-5.1.m3u8
+#EXTINF:-1 tvg-logo="https://topflix.vc/resize/Ebrt6qNx72EKzDeHcxht7ZApM%2BkbAJGO7LCV0iKHflnM0yZsZl8lHQRI0L7Xn76I5782cv5S%2BMbT1RmWiO8Bw5s1UvlvI3Pr%2FNTkMN349TGIgyzHQBI4pqwLvFHFqgWT.webp?w=370&h=556" group-title="Filme",Luciferina
+https://sempra.pro/a1/out/6/4955/4955_luciferina.2018.1080p.web-dl.dual.m3u8
+#EXTINF:-1 tvg-logo="https://topflix.vc/resize/Ebrt6qNx72EKzDeHcxht7ZApM%2BkbAJGO7LCV0iKHflnM0yZsZl8lHQRI0L7Xn76IoY5yGt1I3TbwiYFRh3udkk4RqkWwITXLB0oHX%2FIMSZhnOSY65j%2BIYKh609K2Q3C%2F.webp?w=370&h=556" group-title="Filme",Drácula – Ele Ainda Está Vivo
+https://sempra.pro/a1/out/6/5551/5551_dracula-ele-ainda-esta-vivo-2022-1080p-x265-web-dl-dual-5.1.m3u8
+#EXTINF:-1 tvg-logo="https://topflix.vc/resize/Ebrt6qNx72EKzDeHcxht7ZApM%2BkbAJGO7LCV0iKHflnM0yZsZl8lHQRI0L7Xn76I4ni4DpsWaVjgEn6TD0aj2j5tATDISLLniRUbFMikXW%2FgvYmSRfy9UctPsjYti%2BMp.webp?w=370&h=556" group-title="Filme",Alguém Entre Nós
+https://sempra.pro/a1/out/6/5545/5545_alguem-entre-nos-2021-1080p-web-dl-dual.m3u8
+#EXTINF:-1 tvg-logo="https://topflix.vc/resize/Ebrt6qNx72EKzDeHcxht7ZApM%2BkbAJGO7LCV0iKHflm3WO2ymLjhD6ob3ctEQzOzWUvaUrAAEORo6URUDO6REBeT4G%2B%2Bk4il%2FvEJuwb7vqrSW1RxxmAeiYtjCtQwiuXc.webp?w=370&h=556" group-title="Filme",Você Nunca Me Encontrará
+https://sempra.pro/a1/out/6/9275/9275_voce.nunca.me.encontrara.2023.1080p.web-dl.dual.2.0.m3u8
+#EXTINF:-1 tvg-logo="https://topflix.vc/resize/Ebrt6qNx72EKzDeHcxht7ZApM%2BkbAJGO7LCV0iKHflnM0yZsZl8lHQRI0L7Xn76IdYXKqf6nXRjYNtGDGODnb8hycz%2Bsd5yFswKDzbPpaTF%2FhJCAfnChcDv8be8tV1SN.webp?w=370&h=556" group-title="Filme",Noite de Sustos
+https://sempra.pro/a1/out/7/6267/6267_noite-de-sustos-2022-720p-web-dl-dual.m3u8
+#EXTINF:-1 tvg-logo="https://topflix.vc/resize/Ebrt6qNx72EKzDeHcxht7ZApM%2BkbAJGO7LCV0iKHflnM0yZsZl8lHQRI0L7Xn76I%2FYqAmnM5PK9XX48s44ESPVqjV8tC3epccs9UaklHhhqZqOW4wpFSMLDzbS7y2FrM.webp?w=370&h=556" group-title="Filme",O Ritual do Livro Vermelho
+https://sempra.pro/a1/out/6/6265/6265_o.ritual.do.livro.vermelho.2022.1080p.web-dl.x264.dual.2.0.m3u8
+#EXTINF:-1 tvg-logo="https://topflix.vc/resize/Ebrt6qNx72EKzDeHcxht7ZApM%2BkbAJGO7LCV0iKHflm3WO2ymLjhD6ob3ctEQzOzklnzKrPL75UtOlkoNkI4UeCYUenTkMZH8Sq1ASG%2Fwoa%2FeGYJHmsN8X22tlmWgk1s.webp?w=370&h=556" group-title="Filme",O Quarto dos Desejos
+https://sempra.pro/a1/out/6/9270/9270_o.quarto.dos.desejos.2019.720p.bluray.x264-dual.comando.torrents.org.m3u8
+#EXTINF:-1 tvg-logo="https://topflix.vc/resize/Ebrt6qNx72EKzDeHcxht7ZApM%2BkbAJGO7LCV0iKHflnM0yZsZl8lHQRI0L7Xn76I5Y7aUQBpc%2BLNoSTV2mfk5qBJoxY0mGV5rfy%2FvMQlI3VQfQwpGgk8QSDNpCgKurHJ.webp?w=370&h=556" group-title="Filme",Me Assuste
+https://sempra.pro/a1/out/6/5925/5925_me-assuste-2021-1080p-bluray-dual.m3u8
+#EXTINF:-1 tvg-logo="https://topflix.vc/resize/Ebrt6qNx72EKzDeHcxht7ZApM%2BkbAJGO7LCV0iKHflnM0yZsZl8lHQRI0L7Xn76IoMfIA5TL4IKGPBqlMoXTt3qB20T2oMuI2jlxX%2FidlySi2PSwHCPhhOs4OVqM55ea.webp?w=370&h=556" group-title="Filme",Um Rio Muito Frio
+https://sempra.pro/a1/out/6/6237/6237_um-rio-muito-frio-2022-1080p-web-dl-dual.m3u8
+#EXTINF:-1 tvg-logo="https://topflix.vc/resize/Ebrt6qNx72EKzDeHcxht7ZApM%2BkbAJGO7LCV0iKHflnM0yZsZl8lHQRI0L7Xn76Ibs19VzaS94QXsxUFfo7nOnarNLuBsjgh7F%2FRXlIM8W3YYtOZ6U30Wtne4F4yPHwp.webp?w=370&h=556" group-title="Filme",Men: Faces do Medo
+https://sempra.pro/a1/out/6/6233/6233_men-faces-do-medo-2022-1080p-bluray-dual-5.1.m3u8
+#EXTINF:-1 tvg-logo="https://topflix.vc/resize/Ebrt6qNx72EKzDeHcxht7ZApM%2BkbAJGO7LCV0iKHflm3WO2ymLjhD6ob3ctEQzOzhHTwk1daJG1YhuIUbqC%2FsFJJgQT59L18BMiVt6c70waZLk0SqqBS%2FbPZ7JFYlOQB.webp?w=370&h=556" group-title="Filme",Correndo Contra o Tempo
+https://sempra.pro/a1/out/6/9243/9243_dont.let.go.2019.720p.bluray.x264-dual.comando.to.m3u8
+#EXTINF:-1 tvg-logo="https://topflix.vc/resize/Ebrt6qNx72EKzDeHcxht7ZApM%2BkbAJGO7LCV0iKHflnM0yZsZl8lHQRI0L7Xn76IwOIfZadFZQ4HBEOHb%2Fm%2Bau5N95oEZ61Dfn%2BSYDHC6QCAuwqGb%2BePmtnTAepaRb5%2F.webp?w=370&h=556" group-title="Filme",Vampiras: As Noivas de Drácula
+https://sempra.pro/a1/out/6/5990/5990_vampiras.as.noivas.de.dracula.2024.1080p.web-dl.eac3.aac.dual.5.1.m3u8
+#EXTINF:-1 tvg-logo="https://topflix.vc/resize/Ebrt6qNx72EKzDeHcxht7ZApM%2BkbAJGO7LCV0iKHflm3WO2ymLjhD6ob3ctEQzOzzi1ej1XRvyzXWJQvRiQnRPsTRiQJXXljcQmS5N9Knz3Q%2BMoTicK0MUe8fBRaDLfR.webp?w=370&h=556" group-title="Filme",A Marca do Demônio
+https://sempra.pro/a1/out/6/9228/9228_a.marca.do.demonio.2020.720p.web-dl.dd5.1.x264-dual.comando.to.m3u8
+#EXTINF:-1 tvg-logo="https://topflix.vc/resize/Ebrt6qNx72EKzDeHcxht7ZApM%2BkbAJGO7LCV0iKHflnM0yZsZl8lHQRI0L7Xn76IeNatoD7MClDRVGIB5tgAqu1wh4uLjFUKQXUi%2FhQy5DgpTEakcMlKg6YxCdpGqPd9.webp?w=370&h=556" group-title="Filme",Aterrorizante
+https://sempra.pro/a1/out/6/6113/6113_aterrorizante-2016-1080p-bluray-dual.m3u8
+#EXTINF:-1 tvg-logo="https://topflix.vc/resize/Ebrt6qNx72EKzDeHcxht7ZApM%2BkbAJGO7LCV0iKHflm3WO2ymLjhD6ob3ctEQzOz1raFQsm5d9ObZ0wM135T9d65N%2FrHYpHyU9e5b2hy5cSB2XiJf6Jbbdin7j4Tj%2FCo.webp?w=370&h=556" group-title="Filme",A Hora da Sua Morte
+https://sempra.pro/a1/out/6/9225/9225_a.hora.da.sua.morte.2019.720p.bluray.x264-dual-comando.to.m3u8
+#EXTINF:-1 tvg-logo="https://topflix.vc/resize/Ebrt6qNx72EKzDeHcxht7ZApM%2BkbAJGO7LCV0iKHflnM0yZsZl8lHQRI0L7Xn76IwQqehlVVaTYyW8WoKF6CSGp55u0cKffEeN05QPXyTaVy6TOSbj0lOG2GOfLRoAw9.webp?w=370&h=556" group-title="Filme",O Telefone do Sr. Harrigan
+https://sempra.pro/a1/out/6/6328/6328_o-telefone-do-sr.-harrigan-2022-1080p-web-dl-dual-5.1.m3u8
 
 
 
