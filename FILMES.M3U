@@ -1,4 +1,16 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/467691868df05a4035d5b6e8d361e79f.webp" group-title="TV",TVI 
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/tvi.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/bf5a981c80f234b09dae228127d108a1.webp" group-title="TV",SIC
+https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_4.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/91efd89afa7e783034c78ab45eb10ccc.webp" group-title="TV",TVI Reality
+https://video-auth5.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvireality-720_passthrough/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/27c7fd91d7e589a2e5f88e42f37707eb.webp" group-title="TV",SIC Notícias
+https://d277k9d1h9dro4.cloudfront.net/out/v1/293e7c3464824cbd8818ab8e49dc5fe9/index_5.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/7856d68f41f8f261c2cdeca2b92dce7b.webp" group-title="TV",Jetsons Tv 
+https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8
+
+
 #EXTINF:0 tvg-logo="https://topflix.vc/resize/Ebrt6qNx72EKzDeHcxht7ZApM%2BkbAJGO7LCV0iKHflkCFmmkmxjgQAq9K%2F%2FIIg1tsD0aK8LlwxeeESLNAOjAGQ%3D%3D.webp?w=282&h=421" group-title="Filme",1923
 https://sempra.pro/a1/out/6/3050/3050_1923-s02e01-web-dl-1080p-x264-dual-2.0.m3u8
 #EXTINF:0 tvg-logo="https://topflix.vc/resize/Ebrt6qNx72EKzDeHcxht7ZApM%2BkbAJGO7LCV0iKHflm3WO2ymLjhD6ob3ctEQzOz5tmurSuXVLCuIWadNtfV4pfBW7VxlEPGEsCBXyEJD3VihH%2B3RHd22f9DVhN%2BI4OQ.webp?w=282&h=421" group-title="Filme",Bob Burnquist: A Lenda do Skate
