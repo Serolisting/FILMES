@@ -1600,3 +1600,129 @@ http://myott.top/stream/DT6QU63K5VX/176.m3u8?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logos/imagens/eurosport.png" group-title="Desporto Mundial",Eurosport 2 HD
 http://myott.top/stream/DT6QU63K5VX/192.m3u8?checkedby:iptvcat.com
+
+
+-----------------------------------------------tv espanha------------------------------------------------------------------------
+
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logos/imagens/101tv.png" group-title="TV Espanha",101tv Antequera
+https://www.streaming101tv.es:19360/antequera/antequera.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logos/imagens/101tv.png" group-title="TV Espanha",101tv Axarquia (480p)
+https://www.streaming101tv.es:19360/axarquia/axarquia.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logos/imagens/alcarria.png" group-title="TV Espanha",Alcarria TV
+http://217.182.77.27/live/alcarriatv-livestream.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logos/imagens/alcarria.png" group-title="TV Espanha",Alcarria TV (576p) [Not 24/7]
+https://cls.alcarria.tv/alcarriatv/livestream/playlist.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logos/imagens/canal1.png" group-title="TV Espanha",Canal 1 Mar Menor Torre Pacheco (1080p)
+https://directo.tuwebtv.es/canal1.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logos/imagens/canal2000.png" group-title="TV Espanha",Canal 2000 La Solana (720p)
+http://canal2000.berkano-systems.net/streaming/streams/canal2000.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logos/imagens/canal4.png" group-title="TV Espanha",Canal 4 Mallorca (1080p)
+https://limited35.todostreaming.es/live/mitjans-livestream1.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logos/imagens/parlamento.png" group-title="TV Espanha",Canal Parlamento (360p) [Not 24/7]
+https://congresodirecto.akamaized.net/hls/live/2037973/canalparlamento/master.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logos/imagens/sierracadiz.png" group-title="TV Espanha",Canal Sierra de Cádiz (1080p) [Not 24/7]
+https://s.emisoras.tv:8081/sierradecadiz/index.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logos/imagens/ciudadesocio.png" group-title="TV Espanha",Ciudades Del Ocio TV (720p)
+https://cloudvideo.servers10.com:8081/8024/index.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logos/imagens/congreso.png" group-title="TV Espanha",Congreso de los Diputados 2 (360p) [Not 24/7]
+https://congresodirecto.akamaized.net/hls/live/2038275/canal2/master.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logos/imagens/congreso.png" group-title="TV Espanha",Congreso de los Diputados 4 (360p) [Not 24/7]
+https://congresodirecto.akamaized.net/hls/live/2038277/canal4/master.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logos/imagens/cristiana.png" group-title="TV Espanha",Cristiana TV (576p)
+https://cristianos2.todostreaming.es/live/malaga-livestream.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logos/imagens/dieztv.png" group-title="TV Espanha",Diez TV Las Villas (1080p)
+https://streaming.cloud.innovasur.es/mmj2/index.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logos/imagens/elpais.png" group-title="TV Espanha",EL PAÍS TV (1080p)
+https://d2xqbi89ghm9hh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-79fx3huimw4xc-ssai-prd/fast-channel-el-pais.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logos/imagens/elconfidencial.png" group-title="TV Espanha",El Confidencial TV (1080p)
+https://daqnsnf5phf17.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sde7fypd1420w-prod/fast-channel-elconfidencial/fast-channel-elconfidencial.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logos/imagens/fibwi.png" group-title="TV Espanha",Fibwi (1080p) [Not 24/7]
+https://hostcdn3.fibwi.com/fibwi_diario/index.fmp4.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logos/imagens/fitel.png" group-title="TV Espanha",Fitel TV (1080p)
+https://tv.mywifisocial.es/live.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logos/imagens/hittv.png" group-title="TV Espanha",Hit Tv
+http://185.189.225.149/HitTV/index.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logos/imagens/intercomarcal.png" group-title="TV Espanha",Intercomarcal TV (576p) [Not 24/7]
+https://streamingtvi.gestec-video.com/hls/tvixa.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logos/imagens/la1.png" group-title="TV Espanha",La 1 (720p) [Geo-blocked]
+https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_720.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logos/imagens/laocho.png" group-title="TV Espanha",La Ocho TV (1080p)
+https://streaming004.gestec-video.com/hls/8TV.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logos/imagens/lira.png" group-title="TV Espanha",LiraTV (720p)
+https://cloud2.streaminglivehd.com:1936/liratv/liratv/playlist.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logos/imagens/logos.png" group-title="TV Espanha",Logos TV Estudio (720p) [Not 24/7]
+https://streamer1.streamhost.org/salive/logosdirectaH/playlist.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logos/imagens/logoskids.png" group-title="TV Espanha",Logos TV Kids (720p) [Not 24/7]
+https://streamer1.streamhost.org/salive/logoskidsH/playlist.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logos/imagens/logossalud.png" group-title="TV Espanha",Logos TV Salud (720p) [Not 24/7]
+https://streamer1.streamhost.org/salive/logossaludH/playlist.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logos/imagens/martv.png" group-title="TV Espanha",Mar TV (1080p)
+http://iptv.services.everywan.net:8080/martv-web/video.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logos/imagens/mijas.png" group-title="TV Espanha",Mijas 3.40TV (720p)
+https://streaming004.gestec-video.com/hls/MIJAS.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logos/imagens/negocios.png" group-title="TV Espanha",Negocios TV
+https://streaming013.gestec-video.com/hls/negociostv.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logos/imagens/rotv.png" group-title="TV Espanha",ROTV Valencia (720p)
+https://rotv.romediavalencia.com:3839/live/rotvlive.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logos/imagens/rakuten.png" group-title="TV Espanha",Rakuten Viki (720p)
+https://fd18f1cadd404894a31a3362c5f319bd.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_RakutenViki-1/048a962c-e84b-4a0e-aeb3-98376f4b9953/2.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logos/imagens/solmusica.png" group-title="TV Espanha",Sol Música (720p)
+https://d2glyu450vvghm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-21u4g5cjglv02/sm.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logos/imagens/tvferrol.png" group-title="TV Espanha",TV Ferrol (576p)
+https://directo.tvferrol.es/tv.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logos/imagens/tvreus.png" group-title="TV Espanha",TVReus (720p) [Not 24/7]
+https://eu1.servers10.com:8081/8166/index.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logos/imagens/tarotvision.png" group-title="TV Espanha",Tarotvision (576p)
+https://stream.andalhost.com/hls/tarotvision.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logos/imagens/telebilbao.png" group-title="TV Espanha",TeleBilbao (384p)
+https://tbilbo.dyndns.org/hls/stream.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logos/imagens/telemadrid.png" group-title="TV Espanha",Telemadrid Internacional (720p)
+https://new-international-23-secure2.akamaized.net/index.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logos/imagens/trece.png" group-title="TV Espanha",Trece TV
+https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/021/playlist.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logos/imagens/univers.png" group-title="TV Espanha",Univers TV (720p)
+https://cloud2.streaminglivehd.com:1936/universfaller/universfaller/playlist.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logos/imagens/verbena.png" group-title="TV Espanha",Verbena TV (1080p)
+https://streamtv2.elitecomunicacion.cloud:3144/live/verbenatvlive.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logos/imagens/tevecat.png" group-title="TV Espanha",teve.cat (1080p)
+https://limited35.todostreaming.es/live/mitjans-livestream.m3u8?checkedby:iptvcat.com
