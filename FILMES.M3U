@@ -1,5 +1,20 @@
 #EXTM3U
 
+
+#EXTINF:-1 tvg-id="BandSPInterior.br" tvg-logo="https://i.imgur.com/7tcslXc.png" group-title="TV",Band SP Interior
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/37424.m3u8
+#EXTINF:-1 tvg-id="BandNews.br" tvg-logo="https://i.ibb.co/0jVZBFp/u8ya-iw-R-400x400.jpg" group-title="TV",BandNews
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162311.m3u8
+#EXTINF:-1 tvg-id="Band.br" tvg-logo="https://i.imgur.com/1r5T6Pw.png" group-title="TV",Band
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162309.m3u8
+#EXTINF:-1 tvg-id="TVBahia.br" tvg-logo="https://i.imgur.com/sJOrvHg.png" group-title="TV",TV Bahia
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162392.m3u8
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://topflix.vc/resize/Ebrt6qNx72EKzDeHcxht7ZApM%2BkbAJGO7LCV0iKHflm3WO2ymLjhD6ob3ctEQzOzjVDBgLzwc%2F01QajghoIeTsvjc0S6qPjpcM86yERmoP8RWZSSQLTX83%2Bv5IJ5Qhhh.webp?w=370&h=556" group-title="Filme",Golpe de Superação
 https://sempra.pro/a1/out/6/9370/9370_golpe.de.superacao.2025.1080p.web-dl.dual.5.1.m3u8
 #EXTINF:-1 tvg-logo="https://topflix.vc/resize/Ebrt6qNx72EKzDeHcxht7ZApM%2BkbAJGO7LCV0iKHflm3WO2ymLjhD6ob3ctEQzOzTXhJcP8nYKxfMCiJuUjWlg%3D%3D.webp?w=370&h=556" group-title="Filme",Último Suspiro 2025
