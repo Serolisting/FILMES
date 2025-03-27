@@ -1,4 +1,9 @@
 #EXTM3U
+
+#EXTINF:-1 tvg-id="AMC(Portuguese).br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png" group-title="Regional",AMC
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162303.m3u8
+
+
 #EXTINF:-1 tvg-id="TVAnhangueraGoiania.br" tvg-logo="https://i.imgur.com/kSfg6Zb.png" group-title="TV",TV Anhanguera Goiania
 http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162391.m3u8
 #EXTINF:-1 tvg-id="Arte1.br" tvg-logo="https://i.imgur.com/Ivnk7A6.png" group-title="",Arte 1
